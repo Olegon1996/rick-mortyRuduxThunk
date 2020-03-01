@@ -1,0 +1,27 @@
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: white;
+}
+.imageFull {
+  width: 100%;
+}
+.imageWithMoreInfo {
+  width: 600px;
+  height: 425px;
+}
+.moreName {
+  margin: 0;
+}
+.moreInfoPar {
+  margin: 0;
+  line-height: 27px;
+  font-size: 19px;
+}
+.spanInfo {
+    font-size: 18px;
+    color: gray;
+}
